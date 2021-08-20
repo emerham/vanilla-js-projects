@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+}
+.buttons .btn {
+  margin: 0 15px;
+}
+.inputs {
+  justify-content: center;
+}
+
+.inputs .form-control {
+  margin: 0 10px;
+}
+
+.inputs .form-group {
+  display: flex;
+  margin: 0 10px;
+  align-items: flex-end;
+}
